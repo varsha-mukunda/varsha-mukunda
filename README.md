@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+
+<img src="github-banner.png" width="100%" />
+
+# Hi, I'm Varsha M! 👋
+
+### AI & ML Engineering Student
+
+Building | Learning | Innovating
+
+</div>## Hi there 👋
 
 <!--
 **varsha-mukunda/varsha-mukunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
